@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import datetime as dt
 
-
+# Sección 2: cambio realizado en la rama anasofia-viz
 
 app = dash.Dash(
     __name__,
