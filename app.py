@@ -8,7 +8,8 @@ import pandas as pd
 import datetime as dt
 
 # Sección 2: cambio realizado en la rama anasofia-viz
-
+   # Sección 3: cambio publicado en GitHub
+   
 app = dash.Dash(
     __name__,
     meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1"}],
